@@ -1,0 +1,3 @@
+class APIResponseStatus:
+    UNEXPECTED_ERROR = 1000
+    ATTRIBUTE_NAME_ERROR = 1001
